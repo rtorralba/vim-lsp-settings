@@ -73,6 +73,15 @@
       ]
     }
   ],
+  "bas": [
+    {
+      "command": "boriel-basic-lsp",
+      "url": "https://www.boriel-basic.com/",
+      "description": "Boriel Basic LSP",
+      "requires": [
+        "npm"
+      ]
+    },
   "bzl": [
     {
       "command": "starpls",
