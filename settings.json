@@ -81,7 +81,8 @@
       "requires": [
         "npm"
       ]
-    },
+    }
+  ],
   "bzl": [
     {
       "command": "starpls",
